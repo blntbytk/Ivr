@@ -23,5 +23,8 @@ target/
 .DS_Store
 Thumbs.db
 
+# Node (legacy)
+node_modules/
+
 # Environment
 .env
